@@ -66,7 +66,7 @@ external_link:
 filename_case: 0
 render_drafts: false
 post_asset_folder: true
-relative_link: false
+relative_link: true
 future: true
 syntax_highlighter: highlight.js
 highlight:
@@ -74,7 +74,7 @@ highlight:
   auto_detect: false
   tab_replace: ''
   wrap: true
-  hljs: false
+  hljs: falsehe
 prismjs:
   preprocess: true
   line_number: true
